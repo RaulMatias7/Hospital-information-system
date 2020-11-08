@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SBLSH_.iml" filepath="$PROJECT_DIR$/.idea/SBLSH_.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Sistema_Busca_LSH.iml" filepath="$PROJECT_DIR$/.idea/Sistema_Busca_LSH.iml" />
+    </modules>
+  </component>
+</project>
+
